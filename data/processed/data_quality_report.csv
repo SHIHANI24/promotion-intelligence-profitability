@@ -1,0 +1,7 @@
+metric,value
+row_count,9994
+column_count,21
+duplicate_rows,0
+missing_cells,0
+negative_profit_rows,1871
+zero_discount_rows,4798
